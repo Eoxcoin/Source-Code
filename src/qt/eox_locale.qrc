@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/eox_bg.qm</file>
+        <file alias="de">locale/eox_de.qm</file>
+        <file alias="en">locale/eox_en.qm</file>
+        <file alias="es">locale/eox_es.qm</file>
+        <file alias="fi">locale/eox_fi.qm</file>
+        <file alias="fr">locale/eox_fr.qm</file>
+        <file alias="it">locale/eox_it.qm</file>
+        <file alias="ja">locale/eox_ja.qm</file>
+        <file alias="nl">locale/eox_nl.qm</file>
+        <file alias="pl">locale/eox_pl.qm</file>
+        <file alias="pt">locale/eox_pt.qm</file>
+        <file alias="ru">locale/eox_ru.qm</file>
+        <file alias="sk">locale/eox_sk.qm</file>
+        <file alias="sv">locale/eox_sv.qm</file>
+        <file alias="vi">locale/eox_vi.qm</file>
+        <file alias="zh_CN">locale/eox_zh_CN.qm</file>
+        <file alias="zh_TW">locale/eox_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EOX Core
+Comment=EOX P2P Cryptocurrency
+Comment[de]=Verbinde mit dem EOX peer-to-peer Netzwerk
+Comment[fr]=EOX, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EOX, eşten eşe kriptografik sanal para birimi
+Exec=eox-qt %u
+Terminal=false
+Type=Application
+Icon=eox128
+MimeType=x-scheme-handler/eox;
+Categories=Office;Finance;

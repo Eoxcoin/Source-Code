@@ -1,0 +1,6 @@
+usr/local/bin/eox-qt usr/bin
+share/pixmaps/eox32.xpm usr/share/pixmaps
+share/pixmaps/eox16.xpm usr/share/pixmaps
+share/pixmaps/eox128.png usr/share/pixmaps
+debian/eox-qt.desktop usr/share/applications
+debian/eox-qt.protocol usr/share/kde4/services/

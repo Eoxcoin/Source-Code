@@ -1,0 +1,11 @@
+[Protocol]
+exec=eox-qt '%u'
+protocol=eox
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
